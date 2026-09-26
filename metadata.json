@@ -1,0 +1,6 @@
+{
+  "name": "Credit Assistant",
+  "description": "AI-powered credit health platform for Indian consumers with CIBIL-style credit score tracking, DTI calculator, credit utilization analytics, debt payoff strategies, score simulator, and Gemini financial advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
