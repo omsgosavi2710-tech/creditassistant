@@ -169,6 +169,12 @@ Credit Assistant is a full-stack financial technology application tailored for t
 - **Isolated User Storage**: Database queries enforce user ID checks (`WHERE user_id = ?`).
 - **No Spam Guarantee**: The platform is built as an educational decision-support tool. It does not sell user data to credit telemarketers or third-party lenders.
 
+**Documatation**
+[Download Credit Assistant PDF](sandbox:/mnt/data/credit-assistant_PDF.pdf)
+
+
+**Credit Assistant**
+
 ---
 
 ## 6. Educational Disclaimer
