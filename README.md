@@ -177,7 +177,8 @@ Credit Assistant is a full-stack financial technology application tailored for t
 
 
 **Documatation**
-[📄 Click here to view Credit Assistant PDF](./credit-assistant_PDF.pdf)
+
+[📄 View Credit Assistant Project Report](./credit-assistant_PDF.pdf)
 
 **Credit Assistant**
 
